@@ -15,7 +15,4 @@ Built a binary classifier using logistic regression on the Breast Cancer Wiscons
 - ROC-AUC Score
 - Optimal threshold found
 
-## Files
-- `logistic_regression.py`: Main code file
-- `roc_curve.png`: ROC curve visualization
-- `sigmoid_function.png`: Sigmoid function visualization
+
